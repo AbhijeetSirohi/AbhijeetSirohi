@@ -10,61 +10,47 @@ just figuring out how to do this shit
 
 ## 🎮 PACMAN EATING YOUR CONTRIBUTIONS
 
-<div align="center">
-
-![Pacman Contributions](https://raw.githubusercontent.com/tobiasmeyer/pacman-contributions/master/public/ghcontrib.gif)
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhijeetSirohi/AbhijeetSirohi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhijeetSirohi/AbhijeetSirohi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AbhijeetSirohi/AbhijeetSirohi/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
-## 🐍 SNAKE EATING YOUR COMMITS
+## 💣 BOMBERMAN DESTROYING YOUR CONTRIBUTIONS
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhijeetSirohi/AbhijeetSirohi/output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhijeetSirohi/AbhijeetSirohi/output/bomberman-contribution-graph.svg">
+  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/AbhijeetSirohi/AbhijeetSirohi/output/bomberman-contribution-graph.svg">
+</picture>
 
-![snake gif](https://github.com/AbhijeetSirohi/AbhijeetSirohi/raw/output/github-contribution-grid-snake.svg)
-
-</div>
+_Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
 ---
 
 # 📊 GitHub Stats:
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhijeetSirohi&show_icons=true&theme=dark&bg_color=0d1117&text_color=39ff14&icon_color=39ff14&hide_border=true)
-
-</div>
+[![Abhijeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhijeetSirohi&show_icons=true&theme=dark&bg_color=0d1117&text_color=39ff14&icon_color=39ff14&hide_border=true&include_all_commits=true)](https://github.com/AbhijeetSirohi)
 
 ---
 
 ## 🔥 GitHub Streak
 
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=AbhijeetSirohi&theme=dark&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14)
-
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=AbhijeetSirohi&theme=dark&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14)](https://github.com/AbhijeetSirohi)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=AbhijeetSirohi&theme=dark&row=1&column=6)
-
-</div>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=AbhijeetSirohi&theme=dark&row=1&column=6&no-bg=true)](https://github.com/AbhijeetSirohi)
 
 ---
 
 ## 🎯 Contribution Graph
 
-<div align="center">
-
-![Abhijeet's github activity graph](https://activity-graph.herokuapp.com/graph?username=AbhijeetSirohi&theme=react-dark&area=true&hide_border=true&bg_color=0d1117)
-
-</div>
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhijeetSirohi&theme=react-dark&hide_border=true&bg_color=0d1117&area=true)](https://github.com/AbhijeetSirohi)
 
 ---
 
